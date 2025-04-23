@@ -6,5 +6,7 @@ title: Recorder
 
 - Graba interacciones de usuario como clicks, navegación, etc.
 - Útil para reproducir flujos y medir performance.
+![Docs Version Dropdown](./img/recorder.png)
+
 
 ---
